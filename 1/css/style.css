@@ -17,19 +17,24 @@ img {
  border-color:#5a5a5a;
  width: 360px;
 }
-h2{
-    text-align: left;
-    padding-left: 35px;
+.button1 {
+  display:block;
+    margin-left: 2px;
+    margin-right: auto;
+    text-decoration: none;
+    text-align: center;
     font-family: Tahoma;
-    font-size: 14pt ;
+    font-size: 14pt;
     font-style: normal; color: white;
-    background-color: #8bc144;  width:130px; height: 25px;
+    background-color: #8bc144; width: 175px; height: 25px;
     box-shadow: -2px 3px rgba(0, 0, 0, 0.45)
+
+
   }
 p {
   text-align: center;
 }
-a {
+.button2 {
 text-align: center;
 text-decoration: none;
 background-color: #ff0000; width: 225px; height: 45px; margin-left: 65px;
